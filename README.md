@@ -24,11 +24,17 @@ This app has been **tested on the web** using **Expo Web**, ensuring it works bo
 
 ## Screenshots
 -home screen
-<img width="464" height="890" alt="image" src="https://github.com/user-attachments/assets/1b915211-d526-4501-a066-ad71ccaedec6" />
+
+<img width="455" height="928" alt="image" src="https://github.com/user-attachments/assets/2352d0bf-a3af-4a62-83d1-81993619bef8" />
+
+
 
 
 -postdetails
-<img width="455" height="928" alt="image" src="https://github.com/user-attachments/assets/83e8ffd6-3fa8-46a9-b45c-8cedb308272e" />
+
+
+<img width="464" height="890" alt="image" src="https://github.com/user-attachments/assets/fb68139e-edb1-41e8-aa7b-b74dc3c0601c" />
+
 
 
 ## Tech Stack
