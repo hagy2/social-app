@@ -1,4 +1,4 @@
- GoRest Posts App
+social App
 
 A **React Native + Expo** app built with **TypeScript** that fetches posts, users, and comments from the [GoRest API](https://gorest.co.in/) and displays them in a **themed mobile interface**. Each post shows the author's initials as an avatar, and tapping a post shows detailed information and comments.
 
